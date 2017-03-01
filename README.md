@@ -1,2 +1,2 @@
 # Carousel
-jQuery轮播插件
+基于jQuery的轮播插件
